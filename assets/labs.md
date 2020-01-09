@@ -11,6 +11,7 @@
 - [DWVA](http://www.dvwa.co.uk)
 - [Google Gruyere](https://google-gruyere.appspot.com/)
 - [Web Security Academy by PortSwigger](https://portswigger.net/web-security)
+- [OWASP BWA] (https://sourceforge.net/projects/owaspbwa/)
 
 ---
 back to [Intro Page](/README.md)
