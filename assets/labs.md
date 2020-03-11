@@ -13,6 +13,6 @@
 - [Web Security Academy by PortSwigger](https://portswigger.net/web-security)
 - [XSS Labs from PwnFunction](https://xss.pwnfunction.com/) Great Labs in a beautiful layout
 - [0l4bs - Cross-site scripting labs for web application security enthusiasts](https://github.com/tegal1337/0l4bs) - by tegal1337
-
+- [OWASP BWA] (https://sourceforge.net/projects/owaspbwa/)
 ---
 back to [Intro Page](/README.md)
